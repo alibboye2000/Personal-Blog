@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: justify;
+    
+}
+/* Style the entire section */
+ul.section {
+    background-color: #f0f0f0; /* Background color for the section */
+    padding: 20px; /* Add padding to the section */
+    border: 1px solid #ccc; /* Add a border to the section */
+    border-radius: 5px; /* Rounded corners for the section */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Add a box shadow */
+    margin: 10px; /* Add margin to separate it from other content */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+
+header {
+    background-color: #333;
+    padding: 20px;
+    color: #fff;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 15px;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+p {
+    line-height: 1.5;
+}
+
+/* Style the footer to make it inline */
+.social-footer {
+    text-align: center; /* Center-align the links */
+}
+
+/* Style the social media links */
+.social-link {
+    display: inline-block; /* Make them inline */
+    margin: 10px; /* Add some spacing between the links */
+    font-size: 14px; /* Set the font size to make them small */
+    text-decoration: none; /* Remove underlines from links */
+    color: #333; /* Set the text color */
+}
+
+/* You can add additional styling as needed, such as changing the link colors, background, or hover effects. */
